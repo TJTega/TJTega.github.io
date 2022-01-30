@@ -3,6 +3,6 @@
 <head>
 </head>
 <body>
-  <?include 'header.html';?>
+  <?include 'header.php';?>
 </body>
 </html>
