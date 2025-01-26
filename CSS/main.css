@@ -27,6 +27,7 @@ tr, th{
   display: flex;
   flex-flow: row nowrap;
 }
+
 .container a{
   display: flex;
   color: #222;
