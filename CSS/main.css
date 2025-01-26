@@ -1,6 +1,6 @@
 body{
-  background-color: #222;
-  color: #fff;
+  background-color: #fff;
+  color: #222;
   font-family: sans-serif;
 }
 .container{
@@ -11,7 +11,8 @@ body{
   padding: 0;
   height: 50px;
   width: 100%;
-  background-color: lightblue;
+  background-color: white;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   display: flex;
   flex-flow: row nowrap;
   justify-content: center;
@@ -28,7 +29,7 @@ tr, th{
 }
 .container a{
   display: flex;
-  color: #fff;
+  color: #222;
   text-decoration: none;
   top: 0; bottom: 0;
   padding: 8px;
@@ -38,7 +39,7 @@ tr, th{
 }
 
 .container a:hover{
-  color: black;
+  color: #fff;
   text-decoration: none;
-  background-color: red;
+  background-color: #222;
 }
