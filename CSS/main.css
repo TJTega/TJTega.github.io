@@ -39,6 +39,10 @@ tr, th{
   text-align: center;
 }
 
+.container a div{
+  align-self: center;
+}
+
 .container a:hover{
   color: #fff;
   text-decoration: none;
