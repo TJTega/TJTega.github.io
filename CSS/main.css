@@ -37,10 +37,7 @@ tr, th{
   border-left: 1px solid black;
   width: 50px;
   text-align: center;
-}
-
-.container a div{
-  align-self: center;
+  justify-content: center;
 }
 
 .container a:hover{
