@@ -39,7 +39,8 @@ tr, th{
   top: 0; bottom: 0;
   padding: 8px;
   border-left: 1px solid black;
-  width: 50px;
+  width: auto;
+  margin: auto;
   text-align: center;
   justify-content: center;
 }
